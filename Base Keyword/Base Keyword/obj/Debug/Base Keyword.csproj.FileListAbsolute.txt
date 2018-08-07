@@ -1,0 +1,6 @@
+E:\Hardik\Base Keyword\Base Keyword\bin\Debug\Base Keyword.exe.config
+E:\Hardik\Base Keyword\Base Keyword\bin\Debug\Base Keyword.exe
+E:\Hardik\Base Keyword\Base Keyword\bin\Debug\Base Keyword.pdb
+E:\Hardik\Base Keyword\Base Keyword\obj\Debug\Base Keyword.csprojResolveAssemblyReference.cache
+E:\Hardik\Base Keyword\Base Keyword\obj\Debug\Base Keyword.exe
+E:\Hardik\Base Keyword\Base Keyword\obj\Debug\Base Keyword.pdb

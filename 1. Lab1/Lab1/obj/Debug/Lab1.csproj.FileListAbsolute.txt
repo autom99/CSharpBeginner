@@ -1,0 +1,6 @@
+E:\Hardik\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Hardik\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Hardik\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Hardik\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Hardik\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\Hardik\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache

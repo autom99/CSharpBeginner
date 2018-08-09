@@ -1,0 +1,6 @@
+E:\Hardik\Properties_Example\Properties_Example\bin\Debug\Properties_Example.exe.config
+E:\Hardik\Properties_Example\Properties_Example\bin\Debug\Properties_Example.exe
+E:\Hardik\Properties_Example\Properties_Example\bin\Debug\Properties_Example.pdb
+E:\Hardik\Properties_Example\Properties_Example\obj\Debug\Properties_Example.csprojResolveAssemblyReference.cache
+E:\Hardik\Properties_Example\Properties_Example\obj\Debug\Properties_Example.exe
+E:\Hardik\Properties_Example\Properties_Example\obj\Debug\Properties_Example.pdb

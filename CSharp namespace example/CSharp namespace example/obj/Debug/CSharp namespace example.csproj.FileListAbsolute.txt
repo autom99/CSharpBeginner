@@ -1,0 +1,6 @@
+E:\Hardik\Doc\SampleProject\Practice\Console\CSharp namespace example\CSharp namespace example\bin\Debug\CSharp namespace example.exe.config
+E:\Hardik\Doc\SampleProject\Practice\Console\CSharp namespace example\CSharp namespace example\bin\Debug\CSharp namespace example.exe
+E:\Hardik\Doc\SampleProject\Practice\Console\CSharp namespace example\CSharp namespace example\bin\Debug\CSharp namespace example.pdb
+E:\Hardik\Doc\SampleProject\Practice\Console\CSharp namespace example\CSharp namespace example\obj\Debug\CSharp namespace example.csprojResolveAssemblyReference.cache
+E:\Hardik\Doc\SampleProject\Practice\Console\CSharp namespace example\CSharp namespace example\obj\Debug\CSharp namespace example.exe
+E:\Hardik\Doc\SampleProject\Practice\Console\CSharp namespace example\CSharp namespace example\obj\Debug\CSharp namespace example.pdb

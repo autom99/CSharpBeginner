@@ -1,0 +1,6 @@
+E:\Hardik\Unsafe_Example\Unsafe_Example\bin\Debug\Unsafe_Example.exe.config
+E:\Hardik\Unsafe_Example\Unsafe_Example\obj\Debug\Unsafe_Example.csprojResolveAssemblyReference.cache
+E:\Hardik\Unsafe_Example\Unsafe_Example\bin\Debug\Unsafe_Example.exe
+E:\Hardik\Unsafe_Example\Unsafe_Example\bin\Debug\Unsafe_Example.pdb
+E:\Hardik\Unsafe_Example\Unsafe_Example\obj\Debug\Unsafe_Example.exe
+E:\Hardik\Unsafe_Example\Unsafe_Example\obj\Debug\Unsafe_Example.pdb

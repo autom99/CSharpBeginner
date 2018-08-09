@@ -1,0 +1,6 @@
+E:\Hardik\Struct_Example\Struct_Example\bin\Debug\Struct_Example.exe.config
+E:\Hardik\Struct_Example\Struct_Example\obj\Debug\Struct_Example.csprojResolveAssemblyReference.cache
+E:\Hardik\Struct_Example\Struct_Example\bin\Debug\Struct_Example.exe
+E:\Hardik\Struct_Example\Struct_Example\bin\Debug\Struct_Example.pdb
+E:\Hardik\Struct_Example\Struct_Example\obj\Debug\Struct_Example.exe
+E:\Hardik\Struct_Example\Struct_Example\obj\Debug\Struct_Example.pdb

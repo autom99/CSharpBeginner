@@ -1,0 +1,6 @@
+E:\Hardik\Static_Example\Static_Example\bin\Debug\Static_Example.exe.config
+E:\Hardik\Static_Example\Static_Example\bin\Debug\Static_Example.exe
+E:\Hardik\Static_Example\Static_Example\bin\Debug\Static_Example.pdb
+E:\Hardik\Static_Example\Static_Example\obj\Debug\Static_Example.csprojResolveAssemblyReference.cache
+E:\Hardik\Static_Example\Static_Example\obj\Debug\Static_Example.exe
+E:\Hardik\Static_Example\Static_Example\obj\Debug\Static_Example.pdb

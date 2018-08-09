@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "MyAssembly/1.0.0": {
+        "dependencies": {
+          "MyDLL": "1.0.0"
+        },
+        "runtime": {
+          "MyAssembly.dll": {}
+        }
+      },
+      "MyDLL/1.0.0": {
+        "runtime": {
+          "MyDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAssembly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

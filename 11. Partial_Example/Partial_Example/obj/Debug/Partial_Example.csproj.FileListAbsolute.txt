@@ -1,0 +1,12 @@
+E:\Hardik\Partial_Example\Partial_Example\bin\Debug\Partial_Example.exe.config
+E:\Hardik\Partial_Example\Partial_Example\bin\Debug\Partial_Example.exe
+E:\Hardik\Partial_Example\Partial_Example\bin\Debug\Partial_Example.pdb
+E:\Hardik\Partial_Example\Partial_Example\obj\Debug\Partial_Example.csprojResolveAssemblyReference.cache
+E:\Hardik\Partial_Example\Partial_Example\obj\Debug\Partial_Example.exe
+E:\Hardik\Partial_Example\Partial_Example\obj\Debug\Partial_Example.pdb
+E:\Hardik\Doc\SampleProject\Practice\11. Partial_Example\Partial_Example\bin\Debug\Partial_Example.exe.config
+E:\Hardik\Doc\SampleProject\Practice\11. Partial_Example\Partial_Example\obj\Debug\Partial_Example.exe
+E:\Hardik\Doc\SampleProject\Practice\11. Partial_Example\Partial_Example\obj\Debug\Partial_Example.pdb
+E:\Hardik\Doc\SampleProject\Practice\11. Partial_Example\Partial_Example\bin\Debug\Partial_Example.exe
+E:\Hardik\Doc\SampleProject\Practice\11. Partial_Example\Partial_Example\bin\Debug\Partial_Example.pdb
+E:\Hardik\Doc\SampleProject\Practice\11. Partial_Example\Partial_Example\obj\Debug\Partial_Example.csprojResolveAssemblyReference.cache

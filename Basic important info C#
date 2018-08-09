@@ -1,0 +1,71 @@
+**********Online compiler Microsoft of c#******************
+Click on below link:
+
+https://www.microsoft.com/net/learn/in-browser-tutorial/1
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/index-operator
+
+---------------------- About Access Modifier in C#:----------------------------------------
+
+Public: Anywhere from the class
+Private: Only within the class
+Protected: Only within that class and the sub classes of that class
+Internal: Within the assembly of the class
+Protected Internal: Within that class, sub classes of that class and and assembly
+
+**************************Web Session Management in C#****************************************
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>aspnet_regsql -S localhost -U root -P root -ssadd -sstype p (SQL server session mode)
+
+****************************Session timeout:**************************************************
+
+https://www.aspsnippets.com/Articles/Display-Session-Timeout-message-before-Session-expires-in-ASPNet.aspx
+
+https://www.c-sharpcorner.com/UploadFile/225740/introduction-of-session-in-Asp-Net/
+
+----------call in direcctly page_load() in <class-name>.cs :-------------------
+        HtmlMeta meta = new HtmlMeta();
+        meta.HttpEquiv = "Refresh";
+        meta.Content = Convert.ToString(Session.Timeout * 60) + ";url=LogIn.aspx";
+        this.Page.Header.Controls.Add(meta);
+        
+*****************Some useful links for C# Beginner .NET Development:*********************
+
+https://www.1keydata.com/sql/sql.html
+
+https://demo.aspnetawesome.com/
+
+https://www.javatpoint.com/c-sharp-systemexception --> I Prefer this link as beginner.
+
+https://www.youtube.com/watch?v=JhxC-K-Eehg
+
+https://www.completecsharptutorial.com/
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/accessibility-levels
+
+https://www.questpond.com/demo.html
+
+https://www.youtube.com/watch?v=lx2tSY4joDg
+
+---------------------------Registration Adult Validation URLs;------------------------------------------------------------
+
+https://www.c-sharpcorner.com/UploadFile/cd7c2e/apply-client-side-validation-on-dob-selected-by-user/
+
+https://www.c-sharpcorner.com/UploadFile/cd7c2e/apply-server-side-validation-on-dob-selected-by-user/
+
+https://www.aspsnippets.com/Articles/Validate-Date-of-Birth-18-Minimum-Age-validation-in-ASPNet.aspx1
+
+--------------------------------------FORGOT PWD:----------------------------------------------------------------
+
+https://www.aspdotnet-suresh.com/2012/11/code-for-forgot-password-in-aspnet.html
+
+-----------------------------------GIT HUB LINK:---------------------------------------------------------------
+
+https://github.com/hb20007/miscellaneous-programs
+
+https://github.com/DotnetMob/
+
+https://github.com/dbugtime/Csharp-For-Beginners
+
+https://github.com/MicrosoftDocs/visualstudio-docs/tree/master/docs/ide
+
+https://github.com/dotnetcurry?utf8=%E2%9C%93&tab=repositories&q=&type=&language=c%23

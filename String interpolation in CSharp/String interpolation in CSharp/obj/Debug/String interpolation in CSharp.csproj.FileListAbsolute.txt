@@ -1,0 +1,6 @@
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\String interpolation in CSharp\String interpolation in CSharp\bin\Debug\String interpolation in CSharp.exe.config
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\String interpolation in CSharp\String interpolation in CSharp\bin\Debug\String interpolation in CSharp.exe
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\String interpolation in CSharp\String interpolation in CSharp\bin\Debug\String interpolation in CSharp.pdb
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\String interpolation in CSharp\String interpolation in CSharp\obj\Debug\String interpolation in CSharp.csprojResolveAssemblyReference.cache
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\String interpolation in CSharp\String interpolation in CSharp\obj\Debug\String interpolation in CSharp.exe
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\String interpolation in CSharp\String interpolation in CSharp\obj\Debug\String interpolation in CSharp.pdb

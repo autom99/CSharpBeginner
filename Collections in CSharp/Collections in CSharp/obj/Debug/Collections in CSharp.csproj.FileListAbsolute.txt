@@ -1,0 +1,6 @@
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\Collections in CSharp\Collections in CSharp\bin\Debug\Collections in CSharp.exe.config
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\Collections in CSharp\Collections in CSharp\bin\Debug\Collections in CSharp.exe
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\Collections in CSharp\Collections in CSharp\bin\Debug\Collections in CSharp.pdb
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\Collections in CSharp\Collections in CSharp\obj\Debug\Collections in CSharp.csprojResolveAssemblyReference.cache
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\Collections in CSharp\Collections in CSharp\obj\Debug\Collections in CSharp.exe
+E:\Hardik\Doc\SampleProject\Practice\With Microsoft Compiler Example\Collections in CSharp\Collections in CSharp\obj\Debug\Collections in CSharp.pdb

@@ -1,0 +1,6 @@
+E:\Hardik\Doc\SampleProject\Practice\Microsoft Compiler Example\Microsoft Compiler Example\bin\Debug\Microsoft Compiler Example.exe.config
+E:\Hardik\Doc\SampleProject\Practice\Microsoft Compiler Example\Microsoft Compiler Example\bin\Debug\Microsoft Compiler Example.exe
+E:\Hardik\Doc\SampleProject\Practice\Microsoft Compiler Example\Microsoft Compiler Example\bin\Debug\Microsoft Compiler Example.pdb
+E:\Hardik\Doc\SampleProject\Practice\Microsoft Compiler Example\Microsoft Compiler Example\obj\Debug\Microsoft Compiler Example.csprojResolveAssemblyReference.cache
+E:\Hardik\Doc\SampleProject\Practice\Microsoft Compiler Example\Microsoft Compiler Example\obj\Debug\Microsoft Compiler Example.exe
+E:\Hardik\Doc\SampleProject\Practice\Microsoft Compiler Example\Microsoft Compiler Example\obj\Debug\Microsoft Compiler Example.pdb
